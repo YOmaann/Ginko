@@ -11,7 +11,7 @@ import java.net.URL;
 
 class Ginko
 {
-    String url="https://discord.com/api/webhooks/833992535126310972/CiYsvNxVha5B504Du3MwuUjXk8FkGGY4nCcBe6Y3Ns6Ik-EaUnVD7UmvmK9YRLPTuqtG";  // https://httpbin.org/anything --> use this to debug
+    String url="<Discord Web hook url>"; 
     URL a;
     HttpURLConnection b;
     Ginko() throws IOException {
